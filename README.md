@@ -1,6 +1,6 @@
-# Revolut to Delavska Hranilnica (DH) XML Converter
+# Revolut CSV to ISO 20022 XML Converter
 
-A specialized .NET 10 Razor Pages web application designed to convert Revolut monthly CSV statements into the ISO 20022 XML format (camt.053) required by the Slovenian bank **Delavska hranilnica d.d.**
+A specialized .NET 10 Razor Pages web application designed to convert Revolut monthly CSV statements into the ISO 20022 XML format (camt.053) required by the Slovenian bank, i.e. **Delavska hranilnica d.d.**
 
 ## 🚀 Purpose
 
